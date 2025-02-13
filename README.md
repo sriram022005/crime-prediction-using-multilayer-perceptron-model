@@ -55,8 +55,8 @@ The model is trained on a crime dataset containing records with features like **
 - Deploying the model as an API for public use.  
 
 #### **Contributors**  
-- **Your Name** (Developer)  
-- **Other Contributors**  
+- Sriram Goli (Developer)  
+ 
 
 #### **License**  
 This project is open-source under the **MIT License**.  
