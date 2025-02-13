@@ -61,6 +61,4 @@ The model is trained on a crime dataset containing records with features like **
 #### **License**  
 This project is open-source under the **MIT License**.  
 
----
 
-Would you like any modifications or additions to this? 🚀
